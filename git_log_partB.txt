@@ -1,0 +1,105 @@
+commit cfd9bee6692a6635423a9193c3f350d7282439d0
+Author: Hanyang Chen <hanyanc@uci.edu>
+Date:   Fri Jun 2 01:15:03 2017 -0700
+
+    Re-adding file2.txt
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..6ccd731
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2019 junior programmer
+\ No newline at end of file
+
+commit c62454165bebbc0d4d7e36769636705cccfb3530
+Author: Hanyang Chen <hanyanc@uci.edu>
+Date:   Fri Jun 2 01:10:14 2017 -0700
+
+    Deleting file2.txt
+
+diff --git a/file1.txt b/file1.txt
+index d7202e2..0e677fe 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1,3 +1,4 @@
+ Hanyang Chen Computer Science
+ Tasty Garden
+-The Lord of the Rings
+\ No newline at end of file
++The Lord of the Rings
++blue
+\ No newline at end of file
+diff --git a/file2.txt b/file2.txt
+deleted file mode 100644
+index 6ccd731..0000000
+--- a/file2.txt
++++ /dev/null
+@@ -1 +0,0 @@
+-2019 junior programmer
+\ No newline at end of file
+
+commit 6e57495d87ddf553c96fef5fb4f80474d03cd6b0
+Author: Hanyang Chen <hanyanc@uci.edu>
+Date:   Fri Jun 2 01:06:54 2017 -0700
+
+    Committing a new file with my expected graduation year and first job title
+
+diff --git a/file2.txt b/file2.txt
+new file mode 100644
+index 0000000..6ccd731
+--- /dev/null
++++ b/file2.txt
+@@ -0,0 +1 @@
++2019 junior programmer
+\ No newline at end of file
+
+commit 65c0179a78fc8bf6ceb37e64cd060b3ccb40196b
+Author: Hanyang Chen <hanyanc@uci.edu>
+Date:   Fri Jun 2 00:24:09 2017 -0700
+
+    Added favorite restaurant and movie
+
+diff --git a/file1.txt b/file1.txt
+index d30886a..d7202e2 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1,3 @@
+-Hanyang Chen Computer Science
+\ No newline at end of file
++Hanyang Chen Computer Science
++Tasty Garden
++The Lord of the Rings
+\ No newline at end of file
+
+commit d1aba107752c308aad679e669936a2e56752809a
+Author: Hanyang Chen <hanyanc@uci.edu>
+Date:   Fri Jun 2 00:09:43 2017 -0700
+
+    Now has my major
+
+diff --git a/file1.txt b/file1.txt
+index 03d1394..d30886a 100644
+--- a/file1.txt
++++ b/file1.txt
+@@ -1 +1 @@
+-Hanyang Chen 54131314
+\ No newline at end of file
++Hanyang Chen Computer Science
+\ No newline at end of file
+
+commit bb7df4b8cc54b469f9051b47402a246ff1a2e0ed
+Author: Hanyang Chen <hanyanc@uci.edu>
+Date:   Thu Jun 1 23:18:12 2017 -0700
+
+    Committing a new file with my name
+
+diff --git a/file1.txt b/file1.txt
+new file mode 100644
+index 0000000..03d1394
+--- /dev/null
++++ b/file1.txt
+@@ -0,0 +1 @@
++Hanyang Chen 54131314
+\ No newline at end of file
